@@ -15,7 +15,6 @@
 ## 🛠️ Tech Stack
 **Languages**
 - C++
-- Java
 - Python
 - JavaScript
 - SQL
